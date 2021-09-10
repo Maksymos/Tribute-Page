@@ -1,0 +1,97 @@
+<html>
+  <head></head>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lobster" />
+  
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+      <style>
+      html {
+font-family: Tahoma, Sans-Serif;
+line-height: 1.5;
+font-size: 20px;
+font-weight: 500;
+background: url(https://www.itl.cat/pics/b/7/71378_save-money-wallpaper.jpg);
+background-repeat: no-repeat;
+}
+
+#img-div {
+
+margin: 0 auto;
+background-position: 50% 60%;
+background-repeat: no-repeat;
+height: 300px;
+width: 500px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  width: 800px;
+  border-color: #ccffff;
+  border-width: 5px;
+  border-style: ridge;
+  border-radius: 15%;
+  border-background-color: silver;
+  box-shadow: 24px 40px 50px 0px;
+  margin: 0 50 70 150;
+  padding: 100px 100px 160px 100px;
+}
+
+.text {
+  color: #194066
+}
+
+.big {
+  font-size: 60px;
+}
+        p {
+          background: #E0FFFF;
+          font-family: Josefin Sans;
+        }
+        h1, h2 {
+          font-family: lobster;
+          color: #3D59AB;
+        }
+      </style>
+ 
+  
+  <h1 class="big">Ray Dalio</h1>
+    <div id="img-div">
+      <h3 class="text">
+        Raymond Dalio is an American billionaire investor, hedge fund manager, and philanthropist. Dalio is the founder, Co-Chairman and Co-Chief Investment Officer of investment firm Bridgewater Associates, one of the world's largest hedge funds. Bloomberg ranked him as the world's 58th wealthiest person in June 2019.
+      </3>
+      <img id="image" id="img-caption" alt="" src="http://freakonomics.com/wp-content/uploads/2018/03/8413401045_488cbf1d7c_k.jpg">
+      <body id="main">
+   
+         <h2 id="tribute-info">Early life and education</h2>
+          <p>
+            Ray Dalio was born in the Jackson Heights neighborhood of New York City's Queens borough. He is the son of a jazz musician, Marino Dallolio (1911–2002), who "played the clarinet and saxophone at Manhattan jazz clubs such as the Copacabana," and Ann, a homemaker. He is of Italian descent.
+
+Dalio began investing at age 12 when he bought shares of Northeast Airlines for $300 and tripled his investment after the airline merged with another company. Dalio received a bachelor's degree in finance from Long Island University (CW Post) and an MBA from Harvard Business School in 1973
+         </p>
+        <h2>Investment career</h2>
+         <p>After completing his education, Dalio worked on the floor of the New York Stock Exchange and traded commodity futures. He later worked as the Director of Commodities at Dominick & Dominick LLC. In 1974 he became a futures trader and broker at Shearson Hayden Stone. In 1975 he founded investment management firm Bridgewater Associates out of his apartment. The firm opened an office in Westport, Connecticut in 1981 and became the world's largest hedge fund in 2005. As of October 2017 it had $160 billion in assets under management. In 2007 Bridgewater suggested there might be a global financial crisis, and in 2008 Dalio published "How the Economic Machine Works: A Template for Understanding What is Happening Now", an essay assessing the potential of various economies by various criteria.
+<br>
+In 2011 he self-published a 123-page volume, "Principles", that outlines his philosophy of investment and corporate management based on a lifetime of observation, analysis and practical application through his hedge fund.
+<br>
+In 2012 Dalio appeared on the annual Time 100 list of the 100 most influential people in the world. In 2011 and 2012 Bloomberg Markets listed him as one of the 50 Most Influential people. Institutional Investor's Alpha ranked him No. 2 on their 2012 Rich List.
+<br>
+In 2017 Simon & Schuster published Principles: Life & Work. The book was a New York Times #1 best-seller and Amazon’s #1 business book of 2017. Dalio discusses his background as a backdrop for his takeaways about life and work. He has announced that he will write a second volume, Principles: Economics & Investing.
+<br>
+Dalio has said that he could continue improving his returns by solidifying recurring lessons into "principles."
+<br>
+Dalio was co-CEO of Bridgewater for 10 months before announcing in March 2017 that he would step down as part of a company-wide shake-up by April 15. The company had been in a seven-year management and equity transition to find a replacement. Jon Rubinstein, co-CEO of the fund, was announced to step down with Dalio, but would retain an advisory role. On April 7, 2019, Dalio said on 60 Minutes that income inequality in the United States was a national emergency requiring reform.
+<br>
+In July 2019, Dalio called for a reform of capitalism and described wealth inequality as a national emergency. In November 2019 Dalio posted a blog entry stating that excess capital, unfunded social liabilities, and government deficits have created a recipe for disaster, in what he called a "paradigm shift".</p>
+        <h2>Personal life</h2>
+       <p>Dalio resides with his wife Barbara, a descendant of Gertrude Vanderbilt Whitney, (married in 1976/77) in Greenwich, Connecticut, and is known to practice the Transcendental Meditation technique. They have four sons, Devon, Paul, Matthew, and Mark. Devon, their eldest son (born March 26, 1978), was named after North Devon cattle because Ray was deeply involved in cattle futures at the time. Second son Paul Dalio is a film director. Matthew Ace "Matt" Dalio, their third son, is founder and chairman of the China Care Foundation, a non-profit that seeks to help Chinese orphans, and co-founder and CEO of Endless Mobile, Inc., a computer operating system company. Their youngest son Mark Dalio is a wildlife filmmaker.
+        </p>
+ 
+        <a id="tribute-link" target="_blank" href="https://www.bloomberg.com/news/articles/2011-09-07/most-influential-50-people-in-global-finance-full-list-bloomberg-markets">Most Influential 50 in Global Finance List: Bloomberg Markets</a>
+      </body>
+</html>
+      
+      
+          
+          
+          
